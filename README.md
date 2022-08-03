@@ -2,7 +2,7 @@
 A Jupyter Notebook that describes the experimental procedure in order to find the optimal CNN architecture that classifies artworks in Art classes.
 
 
-This is a Jupyter Notebook that provides the pipeline that is required to make series of tests in order to find the best Convolutional Neural Network classifier in art genre. The code is written in Pythton and is based on Tensorflow. In this work Sentiment and Art Class Dataset is used, abbreviated as the _SeAC dataset_ [link](https://github.com/andreasgav/SeAC).
+This is a Jupyter Notebook that provides the pipeline that is required to make series of tests in order to find the best Convolutional Neural Network classifier in art genre. The code is written in Pythton and is based on Tensorflow. In this work Sentiment and Art Class Dataset is used, abbreviated as the _SeAC dataset_ ([link](https://github.com/andreasgav/SeAC)).
 
 In this example a CNN is created from scratch, in order to be trained on the available database. In the example that is provided, the model is able of achieving an accuracy rate of approximately 56% in the unknown sample of images. 
 
